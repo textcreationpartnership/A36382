@@ -1,0 +1,384 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Double deliverance on the never to be forgotten fifth of November : a poem.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36382</idno>
+            <idno type="STC">Wing D1955A</idno>
+            <idno type="STC">ESTC R29746</idno>
+            <idno type="EEBO-CITATION">11201063</idno>
+            <idno type="OCLC">ocm 11201063</idno>
+            <idno type="VID">46717</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36382)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46717)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1440:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Double deliverance on the never to be forgotten fifth of November : a poem.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Sold by R. Taylor ...,</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Licensed November 3, 1690"</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gunpowder Plot, 1605 --  Poetry.</term>
+               <term>Great Britain --  History --  James II, 1685-1688 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46717:1"/>
+            <pb n="1" facs="tcp:46717:1" rendition="simple:additions"/>
+            <head>THE Double Deliverance: On the never to be forgotten Fifth of November. A POEM.</head>
+            <q>Olim haec meminiſſe juvabit.</q>
+            <p>LICENSED <hi>November</hi> 3. 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <lg n="1">
+               <head>I.</head>
+               <l>WElcom, O welcom, thou <hi>auſpicious Morn,</hi>
+               </l>
+               <l>See from the <hi>Eaſt</hi> the Radiant Beams ariſe,</l>
+               <l>To gild the <hi>Mountains,</hi> and the <hi>Plains</hi> adorn:</l>
+               <l>Not <hi>Health</hi> to <hi>Bed-rid, Liberty</hi> to <hi>Slaves,</hi>
+               </l>
+               <l>
+                  <hi>Drink</hi> to the fev'riſh <hi>Throat</hi> that craves,</l>
+               <l>Can half ſo welcom be, or ſo ſurprize,</l>
+               <l>As is this <hi>wiſh'd-for Morning</hi> to our Eyes.</l>
+               <l>Ah <hi>Sluggiſh Man,</hi> for ſhame awake,</l>
+               <l>And of the Common Joy partake.</l>
+               <l>See on the Leafleſs Boughs the Birds are ſate,</l>
+               <l>Each with his pretty warbling Note,</l>
+               <l>Singing their Great Creator's Praiſe;</l>
+               <l>Thy Sloath the winged Choir upbraid:</l>
+               <l>
+                  <hi>Shake, Shake</hi> off downy Sleep, and raiſe</l>
+               <l>Thy Gratitude as high as humane Thought</l>
+               <l>Is capable, or by the Church is taught;</l>
+               <l>To Day be grateful Thoughts and Songs thy Trade.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>To Times long paſt, I would not ſay forgot,</l>
+               <l>Firſt caſt thine Eye; <hi>remember, oh! remember,</hi>
+               </l>
+               <l>The <hi>Curſed Helliſh Powder Plot,</hi>
+               </l>
+               <l>Intended to be acted in <hi>November.</hi>
+               </l>
+               <l>Let no falſe Medium blind thine Eyes,</l>
+               <l>Nor think 'twas <hi>Cecil</hi>'s Artifice;</l>
+               <l>A Trick of State, by Policy deſign'd,</l>
+               <l>Let no ſuch Stories cheat thy Mind;</l>
+               <l>Rubbiſh may oft be thrown on Things of Worth,</l>
+               <l>But time at length will bring the Matter forth.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>The <hi>Romiſh</hi> Yoke (which long our Shoulders gall'd)</l>
+               <l>Thrown off, we then began to ſee</l>
+               <l>The worth of Native <hi>Engliſh</hi> Liberty,</l>
+               <l>And were the Happy Nation call'd.</l>
+               <pb n="2" facs="tcp:46717:2"/>
+               <l>But ſome too envious of our peaceful State,</l>
+               <l>Who to a falſe <hi>Religion</hi> made pretence,</l>
+               <l>Reſolv'd to Undermine it in the litt'ral Sence,</l>
+               <l>Had one of them to <hi>Pluto's Court</hi> been ſent,</l>
+               <l>To turn th' <hi>Infernal Volumes</hi> o'er;</l>
+               <l>Examine the <hi>Archives</hi> of <hi>Hell,</hi>
+               </l>
+               <l>And there in ſearch of Plots a Twelve-month dwell,</l>
+               <l>He could not find in all their Store,</l>
+               <l>A curſt Deſign ſo cloſely Impudent;</l>
+               <l>For <hi>Belzebub</hi> with all his Court was ſate,</l>
+               <l>When News was brought of this Intent;</l>
+               <l>The <hi>Furies roar'd,</hi> and all were griev'd at Heart,</l>
+               <l>To ſee poor Man outdo 'em in their Art.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Under the Room where <hi>Engliſh</hi> Senators</l>
+               <l>Do meet, the Nations Buſineſs to Diſcourſe,</l>
+               <l>A Celler was, dark, long, and unobſerv'd:</l>
+               <l>All Qualities which for their Buſineſs ſerv'd:</l>
+               <l>This hir'd; great ſtore of Powder firſt is laid,</l>
+               <l>Faggots o'er that, leſt all ſhould be betraid.</l>
+               <l>Thus having all (they thinking) in their power,</l>
+               <l>Each Plotter ſmiles, and waits the wiſh'd-for hour,</l>
+               <l>But <hi>Pity</hi> is a Quality ſo good,</l>
+               <l>And ſo incorporate with Fleſh and Blood.</l>
+               <l>Howe'er ſo cruel we to others are,</l>
+               <l>Thoſe of our own Perſwaſion we muſt ſpare.</l>
+               <l>A Letter's ſent, to let a Perſon know</l>
+               <l>Their Friendſhip, and to bid him ſhun the <hi>Blow.</hi>
+               </l>
+               <l>This by miſtake's delivered wrong, and none</l>
+               <l>Could ſolve the Riddle, —</l>
+               <l>Until to <hi>Royal James</hi> the thing was known.</l>
+               <l>His piercing Wit ſoon found the Plot was deep:</l>
+               <l>In times of Danger 'tis not ſafe to ſleep.</l>
+               <l>After ſome Search, the dark Deſign is found,</l>
+               <l>While Fear and Shame the Plotters do confound.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>
+                  <hi>Happy Miſtake</hi>— and much more happy he,</l>
+               <l>Who could through all the dark <hi>AEnigma</hi> ſee.</l>
+               <l>How great Confuſion elſe muſt have been made?</l>
+               <l>Poets and Painters, who in Fancy Trade,</l>
+               <l>Could never an Idea frame,</l>
+               <l>How great would be the Horrour of the ſame.</l>
+               <l>For this <hi>Eſcape,</hi> Thanks firſt to Heaven is due,</l>
+               <l>Next after that, Moſt <hi>Learned Prince,</hi> to You.</l>
+               <l>The Traitors who ſo fail'd in all their Parts,</l>
+               <l>Yet found 'em Halters fit for their Deſerts.</l>
+               <l>The <hi>Popes</hi> have lately made <hi>Canonization</hi>
+               </l>
+               <l>Much ſuch a Trick as <hi>Tranſubſtantiation.</hi>
+               </l>
+               <l>More Criminals did ne'er at <hi>Tyburn</hi> groan,</l>
+               <l>Than Saints in <hi>Roman Kalendar</hi> are ſhown.</l>
+               <l>Let <hi>Faux</hi> and <hi>Garnet,</hi> paſs for Saints at <hi>Rome,</hi>
+               </l>
+               <l>We'll think 'em <hi>Rogues</hi> and <hi>Villains</hi> here at Home.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>No leaky Veſſel in the <hi>Iriſh Seas,</hi>
+               </l>
+               <l>Could ſuffer more than has the Church and <hi>State,</hi>
+               </l>
+               <l>From cloſe <hi>Cabals,</hi> and private <hi>Plots</hi> of late.</l>
+               <pb n="3" facs="tcp:46717:2"/>
+               <l>But he was ſure the Oracle of Truth,</l>
+               <l>That ſpoke and utter'd from his Sacred Mouth,</l>
+               <l>The Church upon a Rock was Seated ſure,</l>
+               <l>And ſhould all Tempeſts and all Storms endure;</l>
+               <l>And what he ſaid is come to paſs.</l>
+               <l>But now omit we all the <hi>Cloſe Intrigues,</hi>
+               </l>
+               <l>Of <hi>Solemn Covenants,</hi> and <hi>Holy Leagues;</hi>
+               </l>
+               <l>Of <hi>Private Clubs,</hi> and <hi>Dark Aſſociation,</hi>
+               </l>
+               <l>Which have ſo lately Plagu'd the <hi>Engliſh</hi> Nation.</l>
+               <l>And paſſing over theſe Unwholeſom Streams,</l>
+               <l>Come to the Reign of <hi>Abdicated James.</hi>
+               </l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>Never at <hi>Roman Triumphs</hi> was there known</l>
+               <l>More Joy, than at his Coming to the Throne.</l>
+               <l>Our Love of him did all our Fears deſtroy,</l>
+               <l>And little Babes were taught to ſhout for Joy.</l>
+               <l>But ah! — As we too often ſee</l>
+               <l>A Morning promiſing and fair,</l>
+               <l>The Sun ſhine bright, Serene the Air;</l>
+               <l>But ſuddenly ſome envious Cloud</l>
+               <l>Shall all <hi>Sol</hi>'s Charming Luſtre ſhroud,</l>
+               <l>And Storms and Tempeſts fill the Sky:</l>
+               <l>So 'twas with us when he began</l>
+               <l>To liſten to the <hi>Romiſh</hi> Crew,</l>
+               <l>And muſt whatever they Commanded do.</l>
+               <l>Nay, though he at his <hi>Coronation</hi> Swore,</l>
+               <l>Oppreſs'd<note n="*" place="margin">Ch. of <hi>Engl.</hi>
+                  </note> 
+                  <hi>Euſebia</hi>'s Rights he would Maintain,</l>
+               <l>Yet pardon me, Crown'd Heads, his Oath he broke,</l>
+               <l>And all his former <hi>Promiſes</hi> forſook.</l>
+               <l>The <hi>Prieſts</hi> o'er him did ſuch Aſcendants gain,</l>
+               <l>That, Poor <hi>
+                     <g ref="char:V">Ʋ</g>nhappy Prince,</hi> he was conſtrain'd</l>
+               <l>To humour them, and forfeit all his Store</l>
+               <l>To cheriſh his <hi>Bald Pated Train.</hi>
+               </l>
+               <l>Thoſe who, in ſpight of all his Foes,</l>
+               <l>Would his <hi>Prorogative</hi> Maintain,</l>
+               <l>Whilſt <hi>They</hi> behind the Curtain laugh'd to ſee,</l>
+               <l>Th' Effects of his Accurſed <hi>Bigottry.</hi>
+               </l>
+               <l>Oh, <hi>Bigottry,</hi> thou Witchcraft of a Man!</l>
+               <l>What Prince (but ſuch a one) would e'er permit</l>
+               <l>Such Swarms of Prieſts to be about the Court;</l>
+               <l>Nay, with him in his Councils ſit?</l>
+               <l>His Boſom Thoughts were not his own,</l>
+               <l>But muſt to <hi>Confeſſor</hi> be known.</l>
+               <l>Of theſe there were a numerous Sort,</l>
+               <l>Who hearing that the Harveſt would be Great,</l>
+               <l>From <hi>Doway</hi> and St. <hi>Omers</hi> hither fled;</l>
+               <l>Of <hi>Jeſuits</hi> firſt a mighty Breed,</l>
+               <l>Who are the great Incend'ries of the State;</l>
+               <l>Of <hi>Benedictines</hi> not a few,</l>
+               <l>And of the Mortifi'd <hi>Franciſcan Crew;</hi>
+               </l>
+               <l>Who in hard Fair, hair Shirts, and Naſtineſs,</l>
+               <l>Do all their Worſhip and Religion place,</l>
+               <l>A greater Number than can well be thought.</l>
+               <l>Theſe, like to <hi>Locuſts,</hi> overſpread the Land,</l>
+               <l>And yet we wanted <hi>Moſes</hi> powerful Wand</l>
+               <l>To drive the Vermine from us; nay, at laſt,</l>
+               <pb n="4" facs="tcp:46717:3"/>
+               <l>Warm'd by Court Smiles, they were ſo bold</l>
+               <l>To ſeize our <hi>Churches;</hi> and, pretend to hold</l>
+               <l>Them by a better Title than was ere</l>
+               <l>Pretended by the Poſſeſſor.</l>
+               <l>By a pretended Form of Law they caſt</l>
+               <l>Our Students out, and in their Colledges</l>
+               <l>Their dull Unthinking Blockheads brought.</l>
+               <l>Blaſphem'd our Worſhip, and in ev'ry Town</l>
+               <l>They brought their <hi>Breaden Idol</hi> down;</l>
+               <l>And we were aw'd and brav'd by ſuch as theſe.</l>
+               <l>The Clouds grew black and lowring, and we all</l>
+               <l>Expected when the <hi>Mighty Storm</hi> would fall.</l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>Thus was our Caſe— Relief we knew not where</l>
+               <l>To find, but only to our God by Prayer:</l>
+               <l>At laſt our Hopes grown Languid with ſuſpence,</l>
+               <l>We heard of the Intentions of the Prince;</l>
+               <l>
+                  <hi>Naſſaw</hi> the Great, the Generous, and the Brave,</l>
+               <l>The only <hi>Prince</hi> in <hi>Europe,</hi> not a Slave,</l>
+               <l>Came to our Aid— and with ſucceſsful Arms</l>
+               <l>Diſſolv'd the Spells, and Countercharm'd the Charms.</l>
+               <l>Th'affrighted <hi>Prieſts</hi> their private Cells forſake,</l>
+               <l>And <hi>Publick Maſſes</hi> all forbear to make,</l>
+               <l>But to poor ſordid Shifts themſelves betake.</l>
+               <l>Some <hi>Peers,</hi> and others, fill'd with Guilt or Fear,</l>
+               <l>Betake themſelves to flight, yet know not where.</l>
+               <l>Forſaken by his <hi>Friends,</hi> the <hi>K</hi>— retires,</l>
+               <l>Returns again— while Shoutings fill the Air;</l>
+               <l>But ſtill uneaſie in his own Deſires,</l>
+               <l>Retires again—</l>
+               <l>And to a Foreign Crown for Shelter flies,</l>
+               <l>Whoſe Curſed Counſels caus'd his Miſeries.</l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nhappy Prince</hi> — How Cruel was thy Fate,</l>
+               <l>To ſuffer Prieſts thy Soul to captivate?</l>
+               <l>No <hi>Prince</hi> that ever took them for his Friends,</l>
+               <l>But found they ſerv'd their own dear Intereſt;</l>
+               <l>Thy Crown was Sacrific'd to their baſe Ends.</l>
+               <l>How in thy Peoples Love hadſt thou been bleſt,</l>
+               <l>If <hi>croaking Jeſuits</hi> had been from thy Breaſt?</l>
+               <l>The bold <hi>AEgyptian Frogs</hi> came not ſo near,</l>
+               <l>They Din'd with <hi>Pharaoh,</hi> but had not his Ear,</l>
+               <l>Nine of the Ten of <hi>AEgypts Plagues</hi> were light,</l>
+               <l>To that one ſingle <hi>Plague</hi> of <hi>Jeſuit.</hi>
+               </l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>Go on, <hi>Great William,</hi> till thy very Name</l>
+               <l>Serves to Eclipſe <hi>Great Alexander</hi>'s Fame.</l>
+               <l>Poets have too much flatter'd his Deſerts,</l>
+               <l>He o'ercame Nations, but You conquer Hearts.</l>
+               <l>Thou <hi>Moſes, Gideon, David</hi> of our Land,</l>
+               <l>Go on, and know no End of thy Command:</l>
+               <l>May diſtant <hi>Nations</hi> to thy <hi>Sceptre</hi> bow,</l>
+               <l>And <hi>Lawrels</hi> ſtill be freſh upon thy <hi>Brow.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> Printed, and Sold by <hi>R. Taylor,</hi> near <hi>Stationers-Hall,</hi> 1690.</p>
+            <pb facs="tcp:46717:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
